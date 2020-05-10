@@ -1,14 +1,16 @@
 ## Efficiency Notes 
 
-- Python Introduction(25th Aug -31th Aug)
+- Python Introduction
     - Python Basics
     - Efficiency
-- Data Structure with Python(1st Sept -14th Sept)
+    
+- Data Structure with Python
   - Arrays and Linked List
   - Stacks and Queues
   - Recursion
   - Trees
   - Maps and Hashing
+  
   - Problem
     - LRU Cache
     - File Recursion
@@ -16,32 +18,29 @@
     - Active Directory
     - Blockchain
     - Union and Interesction
-    - 
-- Basic Algorithms(15th Sept -28th Sept)
-     - Finding the Square Root of an Integer
-     - Search in a Rotated Sorted Array
-     - Rearrange Array Digits
-     -  Dutch National Flag Problem
-     - Autocomplete with Tries
-     - Unsorted Integer Array
-     - Request Routing in a Web Server with a Trie
-    - Test
     
+- Basic Algorithms
+
+     - Problem
+        - Finding the Square Root of an Integer
+        - Search in a Rotated Sorted Array
+        - Rearrange Array Digits
+        - Dutch National Flag Problem
+        - Autocomplete with Tries
+        - Unsorted Integer Array
+        - Request Routing in a Web Server with a Trie
+    
+- Basic Algorithms
+
+     - Problem
+        - r
+        - S
+        
 #### References:
 - https://wiki.python.org/moin/TimeComplexity
 
 
-Solution in Three Parts
-Well done for getting this far! The solution to this problem is broken down into three parts:
-
-1) Step One Pseudocode
-
-2) Step Two Helper Function
-
-3) Step Three daysBetweenDates
-
-
-## How to Solve Problems:
+## How to Solve Problems of Data Structure & Algorithms:
 - Understand the Problems
 - What are the valid inputs
 - What are the outputs
