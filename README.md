@@ -11,17 +11,17 @@
   - Trees
   - Maps and Hashing
   
-  - Problem
-    - LRU Cache
-    - File Recursion
-    - Huffman Coding
-    - Active Directory
-    - Blockchain
-    - Union and Interesction
+    - Problem
+        - LRU Cache
+        - File Recursion
+        - Huffman Coding
+        - Active Directory
+        - Blockchain
+        - Union and Interesction
     
 - Basic Algorithms
 
-     - Problem
+    - Problem
         - Finding the Square Root of an Integer
         - Search in a Rotated Sorted Array
         - Rearrange Array Digits
