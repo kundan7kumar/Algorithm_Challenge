@@ -35,10 +35,11 @@ Now, with the same analysis, as ‘i’ increases, A[i] also increases.
 And the number of iterations after which ‘j’ breaks also increases.
 But note what changes when ‘i’ moves to i + 1:
 
-If A[i] + A[J] > 0,
-Then A[i + 1] + A[J] is also greater than 0, as A[i + 1] > A[i].
+1. If A[i] + A[J] > 0,
+2. Then A[i + 1] + A[J] is also greater than 0, as A[i + 1] > A[i].
 This means if we have tried J for ‘i’, then when moving to i + 1, we should only try values of j < J.
 This concludes that our ‘j’ should be monotonically decreasing and we could re-write the above solution as :
+
         int j = A.size() - 1;    
         for (int i = 0; i < A.size(); i++) 
             for (; j > i; j--) {
@@ -54,6 +55,4 @@ Let us say A.size() = n.
 ( j– is executed atmost n times. Note that we are never increasing the value of j. Neither are we resetting it ).
 That means we take in total of n + n steps = O(n).
 
-In general, all two pointer approach work similarly. You look at the naive solution involving multiple loops and then you start analyzing the pattern on each loop.
-Try to look for monotonicity in one of the loops as other loops move forward. If you find that, you have found your optimization.
-
+Two pointer approach work as optimization of Brute force 
