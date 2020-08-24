@@ -1,16 +1,13 @@
                                     Two Pointer Technique
 ## Two Pointers 
 
+Optimization on some bruteforce approches in certain condition.
 
-This topic in itself is not particularly broad. However, a lot of interviews tend to be a little biased to questions using this technique which prompted us to separate it out as another topic.
+Generalize approach:
 
-So, two pointer ( or N pointer for that matter ) is usually a really clever optimization on some bruteforce approches in certain condition.
-
-Let us start looking at this with the help of a question. Then we will generalize our approach.
-
- Example:
+Example:
 Given a sorted array A ( sorted in ascending order ),
-find if there exists 2 integers A[i] and A[j] such that A[i] + A[j] = 0, i != j 
+Find if there exists 2 integers A[i] and A[j] such that A[i] + A[j] = 0, i != j 
 Now the naive solution would be,
 
         for (int i = 0; i < A.size(); i++) 
@@ -60,6 +57,3 @@ That means we take in total of n + n steps = O(n).
 In general, all two pointer approach work similarly. You look at the naive solution involving multiple loops and then you start analyzing the pattern on each loop.
 Try to look for monotonicity in one of the loops as other loops move forward. If you find that, you have found your optimization.
 
-Happy 2 pointer-ing :-)
-
- 
