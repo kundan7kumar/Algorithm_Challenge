@@ -1,4 +1,4 @@
-                                    Data Structure and Algorithm-[25th Aug - 18th ]
+                                    Data Structure and Algorithm-[1st Sept - 11th Dec]
 ## Efficiency  
 
 - Python Introduction
