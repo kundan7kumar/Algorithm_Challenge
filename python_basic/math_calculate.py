@@ -6,3 +6,12 @@ def math_cal(x,y):
     return a, b, c, d
 
 print(math_cal(9,4))
+
+"""
+/ - Division
+// - Floor Division
+%  - Modulus
+** - Exponentiation
+"""
+
+
