@@ -6,15 +6,15 @@
     - Efficiency
     
 - Data Structure with Python
-  - Arrays and Linked List
-  - Stacks and Queues
-  - Recursion
-  - Trees
-  - Maps and Hashing
-  - Two Pointer
-  - Sliding Window
+    - Arrays and Linked List
+    - Stacks and Queues
+    - Recursion
+    - Trees
+    - Maps and Hashing
+    - Two Pointer
+    - Sliding Window
   
-    - Problem
+      - Problem
         - LRU Cache
         - File Recursion
         - Huffman Coding
