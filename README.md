@@ -1,4 +1,4 @@
-                                    Data Structure and Algorithm-[26th Oct - 31st Dec]
+                                    Data Structure and Algorithm-[1st Nov - 8th Feb]
 ## Efficiency  
 
 - Python Introduction
@@ -11,6 +11,8 @@
   - Recursion
   - Trees
   - Maps and Hashing
+  - Two Pointer
+  - Sliding Window
   
     - Problem
         - LRU Cache
@@ -34,8 +36,7 @@
 - Basic Algorithms
 
      - Problem
-        - r
-        - S
+       
         
 #### References:
 - https://wiki.python.org/moin/TimeComplexity
