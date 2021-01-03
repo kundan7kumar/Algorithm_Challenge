@@ -1,7 +1,7 @@
                                     Two Pointer Technique
 ## Two Pointers 
 
-Optimization on some bruteforce approches in certain condition.
+Optimization on some bruteforce approaches in certain condition.
 
 Generalize approach:
 
@@ -56,3 +56,14 @@ Let us say A.size() = n.
 That means we take in total of n + n steps = O(n).
 
 Two pointer approach work as optimization of Brute force 
+
+#Summary
+It is used in two Scenarios:
+#### Scenario I:
+a. Iterate the array from two ends to the middle.One pointer starts from the beginning while the other pointer starts from the end.<br />
+b. This technique is often used for sorted array
+#### Scenario II:
+a. Two pointers with different steps. one is still used for the iteration while the second one always points at the position for next addition.<br />
+b. One slow-runner and one fast-runner at the same time.<br />
+c. It is used to solve the problem, which determine the movement strategy for both pointers.<br />
+d. Sometimes need to sort the array before using the two-pointer technique. Also,need a greedy way to determine your movement strategy.
