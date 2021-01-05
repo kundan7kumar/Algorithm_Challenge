@@ -5,7 +5,7 @@ def reverse_string(strii):
     return strii[::-1]
 
 
-print(reverse_string(["h", "e", "l", "l", "o"]))
+print(reverse_string(["s", "w", "a", "t", "i"]))
 print(reverse_string(["H", "a", "n", "n", "a", "h"]))
 
 
@@ -51,3 +51,4 @@ print(reverse_string3(["H", "a", "n", "n", "a", "h"]))
 ## Complexity Analysis
 # Time complexity : O(N)^2 to swap N/2 element.
 # Space complexity : O(1)
+
