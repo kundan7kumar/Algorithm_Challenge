@@ -1,4 +1,4 @@
-                                    Data Structure and Algorithm-[25th Jan - 5th May 2021]
+                                    Data Structure and Algorithm-[27th Jan - 11th May 2021]
 ## Efficiency  
 
 - Python Introduction
@@ -14,7 +14,7 @@
     - Two Pointer
     - Sliding Window
   
-[Date-1st Jan 2021]
+[Date-27th Jan 2021]
   - Array and String( leetcode)
   
        
